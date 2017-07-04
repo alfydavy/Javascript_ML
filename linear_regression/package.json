@@ -1,0 +1,19 @@
+{
+  "name": "linear_regression",
+  "version": "1.0.0",
+  "description": "Linear Regrssion using JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Machine",
+    "Learning",
+    "Javascript",
+    "ML",
+    "linear",
+    "regression"
+  ],
+  "author": "alfydavy",
+  "license": "ISC"
+}
